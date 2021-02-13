@@ -1,1 +1,10 @@
-# rina
+# About me!
+
+![](https://counter.gofiber.io/badge/SirRina/SirRina) yess
+
+I am very cool and a programmer of anarchy clients, I made Bope/Wurst+2, Rocan, Noonerhack and otehrs, you can see in my github!
+I am very pro in Java & Python, I am very good in OpengGL legacy and game logic, I know the basic of C++.
+I have a discord you can call me!
+(GoT) Rina#3756
+
+kisses!
