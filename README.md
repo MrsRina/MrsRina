@@ -7,4 +7,4 @@ I have a discord you can call me!
 
 kisses!
 
-![](https://counter.gofiber.io/badge/SirRina/SirRina)
+<img src="https://komarev.com/ghpvc/?username=SirRina&style=flat-square" alt="View Counter"/>
