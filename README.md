@@ -5,7 +5,7 @@ Also I can do freelancer for you.
 
 Discord: (GoT) Rina#0362
 
-Languages I know & code in: Java, C++ & Python;
+Java, C++ & Python;
 kisses!
 
 <img src="https://komarev.com/ghpvc/?username=SirRina&style=flat-square" alt="View Counter"/>
