@@ -7,3 +7,7 @@ Discord: (GoT) Rina#0362
 
 Java, C++ & Python;
 kisses!
+
+
+wooobooouuw
+<img src="https://komarev.com/ghpvc/?username=SirRina&style=flat-square" alt="View Counter"/>
