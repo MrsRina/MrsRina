@@ -12,6 +12,4 @@ kisses!
 
 // hello my git hob is pretty now, pretty pretty dododo 
 
-| Top Langs | Stats |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsrina&layout=compact&langs_count=3&hide=html&theme=dracula" alt="mrsrina :: Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=mrsrina&show_icons=true&theme=dracula&show_private=true" alt="mrsrina :: Profile Stats" /> |
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrsRina&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
