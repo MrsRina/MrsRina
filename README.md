@@ -8,6 +8,10 @@ Discord: (GoT) Rina#0362
 Java, C++ & Python;
 kisses!
 
-
-wooobooouuw
 <img src="https://komarev.com/ghpvc/?username=SirRina&style=flat-square" alt="View Counter"/>
+
+// hello my git hob is pretty now, pretty pretty dododo 
+
+| Top Langs | Stats |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsrina&layout=compact&langs_count=3&hide=html&theme=dracula" alt="giovanyh :: Top Langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=mrsrina&show_icons=true&theme=dracula&show_private=true" alt="mrsrina :: Profile Stats" /> |
