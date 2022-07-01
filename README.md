@@ -11,6 +11,7 @@ Things I do:
 - Game programming.
 - (yes I love to make my own library GUIs for any context).
 - Physics, math <3.
+- AI.
 
 My discord tag: (GoT) Rina#0362
 
