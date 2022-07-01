@@ -1,5 +1,5 @@
 # About me!
-Hello! I am a game programmer, GUI programmer, something programmer, idk programmer.
+Hello! I am a game programmer, GUI programmer, something programmer, idk programmer and
 CEO of 1pop (onepop studio)
 
 I made many cheats for Minecraft 1.12.2 (2b2t) and GUIs library.
