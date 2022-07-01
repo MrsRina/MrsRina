@@ -9,7 +9,7 @@ Things I do:
 - Java, C++ and Python.
 - Gradle, mobile (NDK and Java), SDL2.
 - Game programming.
-- (yes I love to make my own library GUIs for any context).
+- (yes I love to make my own library GUI for any context).
 - Physics, math <3.
 - AI.
 
