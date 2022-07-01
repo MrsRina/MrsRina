@@ -2,7 +2,7 @@
 Hello! I am a game programmer, GUI programmer, something programmer, idk programmer and
 CEO of 1pop (onepop studio)
 
-I made many cheats for Minecraft 1.12.2 (2b2t) and GUIs library, **really sorry for some direspect from my words** I was very immature to understand...
+I made many cheats for Minecraft 1.12.2 (2b2t) and GUIs library, **really sorry for some disrespect from my words** I was very immature to understand...
 
 Things I do:
 - OpenGL ES/3+ & GLSL, Vulkan, OpenGL-Cuda.
