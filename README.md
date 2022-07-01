@@ -1,15 +1,21 @@
 # About me!
-Hello, I coded cheats/utilities client & guis for anarchy community, some of my most famous clients are pinned on top;
-Now I am studing for future things (to be an official programmer), I am using my best skills to type this text in English;
-Also I can do freelancer for you.
+Hello! I am a game programmer, GUI programmer, something programmer, idk programmer.
+CEO of 1pop (onepop studio)
 
-Discord: (GoT) Rina#0362
+I made many cheats for Minecraft 1.12.2 (2b2t) and GUIs library.
+I made things very bad in my past (immature) but now I am getting better like a person!
 
-Java, C++ & Python;
-kisses!
+Things I do:
+- OpenGL ES/3+ & GLSL, Vulkan, OpenGL-Cuda.
+- Java, C++ and Python.
+- Gradle, mobile (NDK and Java), SDL2.
+- Game programming.
+- (yes I love to make my own library GUIs for any context).
+- Physics, math <3.
+
+My discord tag: (GoT) Rina#0362
+
+// hello my git hob is pretty now, pretty pretty dodo
 
 <img src="https://komarev.com/ghpvc/?username=SirRina&style=flat-square" alt="View Counter"/>
-
-// hello my git hob is pretty now, pretty pretty dododo 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrsRina&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
