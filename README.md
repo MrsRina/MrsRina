@@ -1,5 +1,5 @@
 # About me!
-Hello! I am a game programmer, GUI programmer, dk programmer!
+Hello!
 
 I made many cheats for Minecraft 1.12.2 (2b2t) and GUIs library, **really sorry for some disrespect from my old words** I was very immature to understand...
 
@@ -13,9 +13,3 @@ Things I do:
 - AI.
 
 My discord tag: (GoT) Rina#0362
-
-// hello my git hob is pretty now, pretty pretty dodo
-
-<img src="https://komarev.com/ghpvc/?username=SirRina&style=flat-square" alt="View Counter"/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrsRina&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
