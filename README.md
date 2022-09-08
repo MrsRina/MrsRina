@@ -12,5 +12,4 @@ Things I do:
 - Physics, math <3.
 - AI.
 
-I do not make much web stuff.
-My discord tag: (6ot) Rina#0142
+I do not make much web stuff - my discord tag: (6ot) Rina#0142
