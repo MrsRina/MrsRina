@@ -12,4 +12,4 @@ Things I do:
 - Physics, math <3.
 - AI.
 
-My discord tag: (GoT) Rina#0362
+My discord tag: (6ot) Rina#0142
