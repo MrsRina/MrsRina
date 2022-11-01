@@ -1,5 +1,5 @@
 Hello!  
-I do high performance code and high parallel stuff, I do not make much web stuff.  
+I do high performance code and high parallel stuff.
 Currently working on ekg ui library, also making freelancer, studying high parallel programming and graphics programming...
 
 About me:
