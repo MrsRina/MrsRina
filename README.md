@@ -1,18 +1,8 @@
-Unless you do, the arcane mind will not growth and your mind be less less less...  
-become the unstoppable... counter-wise-death, pay, fail, fall, try, unlet dark  
-ness growth, stupid insanly lunatic mind, your mind is amazing
+Unless you do, the arcane mind will not growth...  
+Mindless... fear of future, feel the incoming future...  
+Incomplete words, note the ruins of past, mindless... less... less...
 
+Do you have fear? let me go with you.  
+Unstop the counter, past moments are not the key for new moments.
 
-
-
-
-
-
-
-
-
-
-
-
-
-counter-wise-death
+less, less, less, I am less, I need to learn, to listen and stop think in you.
