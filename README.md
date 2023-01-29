@@ -1,8 +1,1 @@
-Unless you do, the arcane mind will not growth...  
-Mindless... fear of future, feel the incoming future...  
-Incomplete words, note the ruins of past, mindless... less... less...
-
-Do you have fear? let me go with you.  
-Unstop the counter, past moments are not the key for new moments.
-
-less, less, less, I am less, I need to learn, to listen and stop think in you.
+Less&Unless, whatever do your best & unstop the knowledge;
