@@ -1,1 +1,1 @@
-Less&Unless, whatever do your best & unstop the knowledge;
+Unless you do something insane, the arcane mind does not grow.
