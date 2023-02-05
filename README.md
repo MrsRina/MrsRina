@@ -1,1 +1,1 @@
-Unless you do something insane, the arcane mind does not grow.
+Unless you do something insane, the arcane mind will not grow.
