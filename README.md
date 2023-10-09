@@ -1,14 +1,18 @@
 //  me
 
-Hello my name is Rina.
+hello my name is Rina.
 
-I do not have much to talk about, all in my life is insanely dim, but my purpose of making GUIs and GPU-accelerated software makes me wake.  
-I started programming in 2018 when I was 13~14 years old, I did a lot of Minecraft mods, games, and libraries... The time passed.
+i do not have much to talk about, all in my life is insanely dim, but my purpose of making GUIs and GPU-accelerated software makes me wake.  
+i started programming in 2018 when I was 13~14 years old, did a lot of minecraft mods, games, and libraries... the time passed.
 
-Today I am just a useless graphics programmer, and a waste of time, done for fall into the oblivion.  
-I do C++, OpenGL, and Vulkan...
+today i am just a useless graphics programmer, and a waste of time, done for fall into the oblivion.  
+i do C++, OpenGL, and Vulkan...
+
+// ref
+
+i love turok, nocase and sneak_case, handmade lighhtweight softwares, open-source, cats, and cows 
 
 // idk
 
-my most important project life:  
+my life most important project:  
 [ekg gui library](https://github.com/vokegpu/ekg-ui-library)
