@@ -1,6 +1,6 @@
 `//  me`
 
-hello my name is Rina.
+hello my name is rina.
 
 i do not have much to talk about, all in my life is insanely dim, but my purpose of making GUIs and GPU-accelerated software makes me wake.  
 i started programming in 2018 when I was 13~14 years old, i did a lot of minecraft mods, games, and libraries... the time passed.
