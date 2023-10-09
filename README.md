@@ -1,4 +1,4 @@
----
+//
 
 Hello my name is Rina.
 
@@ -7,7 +7,7 @@ I started programming in 2018 when I was 13~14 years old, I did a lot of Minecra
 
 Today I am just a useless graphics programmer, and waste of time, done for fall into the oblivion.
 
----
+//
 
 my most important project life:  
 [ekg gui library](hhttps://github.com/vokegpu/ekg-ui-library)
