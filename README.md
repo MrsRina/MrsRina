@@ -6,7 +6,7 @@ i do not have much to talk about, all in my life is insanely dim, but my purpose
 i started programming in 2018 when I was 13~14 years old, i did a lot of minecraft mods, games, and libraries... the time passed.
 
 today i am just a useless graphics programmer, and a waste of time, done for fall into the oblivion.  
-i do cpp, openGL, and vulkan...
+i do cpp, opengl, and vulkan...
 
 `// ref`
 
