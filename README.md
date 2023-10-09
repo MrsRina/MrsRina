@@ -10,4 +10,4 @@ Today I am just a useless graphics programmer, and waste of time, done for fall 
 //
 
 my most important project life:  
-[ekg gui library](hhttps://github.com/vokegpu/ekg-ui-library)
+[ekg gui library](https://github.com/vokegpu/ekg-ui-library)
