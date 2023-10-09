@@ -1,4 +1,4 @@
-//  me
+`//  me`
 
 hello my name is Rina.
 
@@ -8,11 +8,11 @@ i started programming in 2018 when I was 13~14 years old, i did a lot of minecra
 today i am just a useless graphics programmer, and a waste of time, done for fall into the oblivion.  
 i do cpp, openGL, and vulkan...
 
-// ref
+`// ref`
 
 i love turok, nocase, sneak_case, handmade lighhtweight softwares, open-source, cats, and cows.
 
-// idk
+`// idk`
 
 my life most important project:  
 [ekg gui library](https://github.com/vokegpu/ekg-ui-library)
