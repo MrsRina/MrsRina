@@ -10,7 +10,7 @@ i do cpp, opengl, and vulkan...
 
 `// ref`
 
-i love turok, nocase, sneak_case, handmade lighhtweight softwares, open-source, cats, and cows.
+i love turok, nocase, sneak_case, handmade lightweight softwares, open-source projects, cats, and cows.
 
 `// idk`
 
