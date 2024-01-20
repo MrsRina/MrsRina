@@ -15,4 +15,4 @@ i love turok, nocase, sneak_case, handmade lightweight softwares, open-source pr
 `// idk`
 
 my life most important project:  
-[ekg gui library](https://github.com/vokegpu/ekg-ui-library)
+[ekg gui library | ekg ui tool-kit](https://github.com/vokegpu/ekg-ui-library)
