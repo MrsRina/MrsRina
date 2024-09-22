@@ -1,18 +1,14 @@
-`//  me`
+hello my name is Rina, i am a 🐄🐈-girl (cowcatgirl)
 
-hello my name is rina.
+things i love:
+cows, cats, nocase, sneak_case, turok, and gpus 😊
+rocm, cuda, opengl, and vulkan 🐄
+c++ 🐈‍⬛
 
-i do not have much to talk about, all in my life is insanely dim, but my purpose of making guis and gpu-accelerated software makes me wake.  
-i started programming in 2018 when I was 13~14 years old, i did a lot of minecraft mods, engines, games, and libraries... the time passed.
+i do software since my 13 years old, i have made many projects, from engines to minecraft cheats, but today i am just UI low-level rendering programmer and a graphics programmer.
+making native gui gpu-accelerated is also my passion...
 
-today i am just a useless graphics programmer, and a waste of time, done for fall into the oblivion.  
-i do cpp, opengl, vulkan, and rocm...
+seek here my lovely c++ gui accelerated library project...
+[ekg gui library](https://github.com/vokegpu/ekg-ui-library)
 
-`// ref`
-
-i love turok, nocase, sneak_case, handmade lightweight softwares, open-source projects, cats, and cows.
-
-`// idk`
-
-my life most important project:  
-[ekg gui library | ekg ui tool-kit](https://github.com/vokegpu/ekg-ui-library)
+kisses 💋
